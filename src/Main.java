@@ -60,7 +60,6 @@ public class Main {
 
         } while (guess != randomNumber); // Repeat until guessed correctly
 
-        // Close the scanner to free system resources
         scanner.close();
     }
 }
